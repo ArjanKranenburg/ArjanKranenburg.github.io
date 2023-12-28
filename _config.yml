@@ -1,4 +1,4 @@
-title: "Arjan Kranenburg"
+title: "Arjan's take on Testing"
 author: "Arjan"
 description: "A blog on testing and test tools"
 
@@ -20,7 +20,7 @@ github_username: "ArjanKranenburg"
 #########################################################################################
 theme: "minima"
 
-rss: rss
+#rss: rss
 
 kramdown:
   syntax_highlighter_opts:
