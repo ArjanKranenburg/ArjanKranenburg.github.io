@@ -1,4 +1,8 @@
-## New techniques: Single-page application
+---
+title: New techniques: Single-page application
+category: techniques
+tags: [javascript, spa, unit-test]
+---
 
 In my previous blog, I wrote that I’m developing a new tool: Featrz ([featrz.com](https://featrz.com/)). Go ahead take a sneak-preview. You can see some Demo-features by selecting a Project from the top.
 

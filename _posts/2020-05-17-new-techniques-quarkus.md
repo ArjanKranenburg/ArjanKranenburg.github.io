@@ -1,4 +1,9 @@
-## New techniques: Quarkus
+---
+title: New techniques: Quarkus
+category: techniques
+tags: [quarkus, cloud, cloudrun]
+---
+
 
 In the past year or so, I’ve been working on Featrz ([featrz.com](https://featrz.com/)). Go ahead take a sneak-preview. You can see some Demo-features by selecting a Project from the top-right corner.
 

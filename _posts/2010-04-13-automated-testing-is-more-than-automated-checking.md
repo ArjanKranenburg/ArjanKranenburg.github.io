@@ -1,4 +1,7 @@
-## Automated testing is more than automated checking
+---
+title: Automated testing is more than automated checking
+category: archived
+---
 
 I was involved in an interesting discussion on Twitter, the other day. It started with a tweet by @testingqa (Guy Mason): “Still of the opinion that ‘Automated Testing’ is a deceptive term,no testing is being performed,it should be called ‘Automated Checking’ #qa“. With that he probably refered to Michael Bolton’s blog that there is a [difference between testing and checking](https://developsense.com/blog/2009/08/testing-vs-checking).
 

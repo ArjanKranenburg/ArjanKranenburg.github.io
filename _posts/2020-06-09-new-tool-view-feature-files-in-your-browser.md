@@ -1,4 +1,8 @@
-## New tool: View feature files in your browser
+---
+title: New tool: View feature files in your browser
+category: tools
+tags: [featrz, gherkin]
+---
 
 I’m proud to announce a new tool: [Featrz](https://featrz.com/)
 
