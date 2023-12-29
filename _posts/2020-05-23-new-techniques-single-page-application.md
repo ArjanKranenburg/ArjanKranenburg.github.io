@@ -1,6 +1,5 @@
 ---
 title: "New techniques: Single-page application"
-category: techniques
 tags: [javascript, spa, unit-test]
 ---
 

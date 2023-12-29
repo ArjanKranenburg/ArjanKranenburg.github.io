@@ -1,6 +1,5 @@
 ---
 title: This is why I don't read test books
-category: archived
 ---
 
 On some conferences, time and space is reserved for some shameless book-promotion. Sometimes entire reviews are published in magazines and if you have written a book, you are almost automatically considered the authority on the subject. Test books are popular and in these days of crisis, it seems that even more books are published.

@@ -1,6 +1,5 @@
 ---
 title: The "if you think you're done, think again"-heuristic
-category: heuristics
 ---
 
 When all tests are done and you think you’ve done enough to justify a release, think again. If there is still time, sleep a night over it.

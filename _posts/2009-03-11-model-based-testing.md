@@ -1,6 +1,5 @@
 ---
 title: Model based testing
-category: archived
 ---
 
 Model Based Testing (MBT) is a term frequently used these days. It sounds well and just from the words seems like a good thing to do. But is it really worth the hype?

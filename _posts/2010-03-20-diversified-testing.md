@@ -1,6 +1,5 @@
 ---
 title: Diversified testing
-category: archived
 ---
 
 Lately, it’s popular to have Tests driven by something. Since long we have Requirements based and Risk based testing, which undoubtedly would have been called Requirements-driven and Risk-driven Testing if they were thought of in the past decade. Then there are Use Case-driven, Design-driven, Data-driven, Keyword-driven, Model-driven, and Business-driven testing. And I’ve probably forgotten a few, but Common Sense-driven testing never seems to be an option.

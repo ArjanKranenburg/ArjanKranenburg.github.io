@@ -1,6 +1,5 @@
 ---
 title: Context-driven testing
-category: archived
 ---
 
 A test ideology that I totally agree with is [Context-Driven Testing](http://www.context-driven-testing.com/). But I will never describe my activities like that. In short Context-Driven Testing says that the best way of testing depends on the context. There are so many external factors of influence to your test activities, there is no one best practice that will work for all.

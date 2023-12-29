@@ -1,6 +1,5 @@
 ---
 title: "New tool: View feature files in your browser"
-category: tools
 tags: [featrz, gherkin]
 ---
 
