@@ -1,5 +1,5 @@
 ---
-title: New techniques: Quarkus
+title: "New techniques: Quarkus"
 category: techniques
 tags: [quarkus, cloud, cloudrun]
 ---
