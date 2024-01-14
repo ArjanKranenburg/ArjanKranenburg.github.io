@@ -2,7 +2,7 @@
 title: Automated testing is more than automated checking
 ---
 
-I was involved in an interesting discussion on Twitter, the other day. It started with a tweet by @testingqa (Guy Mason): “Still of the opinion that ‘Automated Testing’ is a deceptive term,no testing is being performed,it should be called ‘Automated Checking’ #qa“. With that he probably refered to Michael Bolton’s blog that there is a [difference between testing and checking](https://developsense.com/blog/2009/08/testing-vs-checking).
+I was involved in an interesting discussion on Twitter, the other day. It started with a tweet by @testingqa (Guy Mason): “Still of the opinion that ‘Automated Testing’ is a deceptive term,no testing is being performed,it should be called ‘Automated Checking’ #qa“. With that he probably refered to Michael Bolton’s blog that there is a <a href="https://developsense.com/blog/2009/08/testing-vs-checking" target="_blank">difference between testing and checking</a>.
 
 After that blog lot’s of people, mainly automation sceptics, stated that Automated Testing should be called Automated Checking. Although I acknowledge and agree that there is a difference between Testing and Checking, I don’t think it should be called Automated Checking. I’ll explain below why not, but first the rest of the Twitter conversation:
 
@@ -38,7 +38,7 @@ I responded to @testingqa’s tweet with: “@testingqa but that’s not true ei
 
 @testingqa: “@ArjanKranenburg … checks only verifies against expectations still. As @michaelbolton said it can be used for more, but most times do not.”
 
-To summarize Michael’s blog, but please read all his [blog-series on testing vs checking](http://www.developsense.com/blog/category/testing-vs-checking/) because there is more to it, an important difference between testing and checking is that testing requires cognition to interpret the information revealed by one or more checks. But I’d like to extend that as I think testing is more than checking + interpretation.
+To summarize Michael’s blog, but please read all his <a href="http://www.developsense.com/blog/category/testing-vs-checking/" target="_blank">blog-series on testing vs checking</a> because there is more to it, an important difference between testing and checking is that testing requires cognition to interpret the information revealed by one or more checks. But I’d like to extend that as I think testing is more than checking + interpretation.
 
 And this becomes apparent when trying to automate a test. The base of a test consists of actions, checks and interpretation of the retrieved information. Most Systems Under Test (SUTs) need to be tickled before it responses. You need to click a button, send a request, press a key, etc. etc. In theory, the SUT can do things without an external stimulant, but in most cases it doesn’t.
 

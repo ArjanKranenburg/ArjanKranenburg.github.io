@@ -4,9 +4,9 @@ tags: [quarkus, cloud, cloudrun]
 ---
 
 
-In the past year or so, I’ve been working on Featrz ([featrz.com](https://featrz.com/)). Go ahead take a sneak-preview. You can see some Demo-features by selecting a Project from the top-right corner.
+In the past year or so, I’ve been working on Featrz (<a href="https://featrz.com/" target="_blank">featrz.com</a>). Go ahead take a sneak-preview. You can see some Demo-features by selecting a Project from the top-right corner.
 
-Interesting about this application are the used techniques. Whenever I hear about a new technique on a conference or in a blog, I make a note of it with the intention of trying it out. To see if it is really useful and will work in a real project. Not a Helloworld!-application, but with security, a real database, a CI pipeline, and of course, automated checks. One of those techniques that I noted is [Quarkus](https://quarkus.io/).
+Interesting about this application are the used techniques. Whenever I hear about a new technique on a conference or in a blog, I make a note of it with the intention of trying it out. To see if it is really useful and will work in a real project. Not a Helloworld!-application, but with security, a real database, a CI pipeline, and of course, automated checks. One of those techniques that I noted is <a href="https://quarkus.io/" target="_blank">Quarkus</a>.
 
 Quarkus is “supersonic subatomic java“. And “a Kubernetes Native Java stack tailored for OpenJDK HotSpot and GraalVM, crafted from the best of breed Java libraries and standards“. In my words: it allows for java applications to run inside a container and be fast. And also very handy: you can develop while it is running, seeing immediate effect of your changes.
 
@@ -20,7 +20,7 @@ To illustrate how fast Quarkus is, the conversion happens in real-time. I wanted
 ### Support for libraries
 The drawback of Quarkus may be that not all libraries are supported when compiling in Native mode. The Quarkus project is working hard on getting more support for libraries. E.g. instead of using Gson, I had to make my own package to convert my POJO’s to JSON. But I didn’t find it that troublesome either. It forced me to think very well about the design and as long as the POJO’s are simple, which they are, they are my POJO’s, the conversion is easy as well. If there is no other way, you can always run Quarkus in JVM-mode. As I did with the data-store service.
 
-The use of [containers](https://quarkus.io/vision/container-first) also allows me to run the instances in a Kubernetes cluster as well. That makes the application very flexible in where and how to deploy it. Perhaps later I may release this tool or a variant for private Kubernetes clouds as well. Plus I can test the application locally.
+The use of <a href="https://quarkus.io/container-first/" target="_blank">containers</a> also allows me to run the instances in a Kubernetes cluster as well. That makes the application very flexible in where and how to deploy it. Perhaps later I may release this tool or a variant for private Kubernetes clouds as well. Plus I can test the application locally.
 
 ### Conclusion
 If you’re like me and want to try-out something new in order to really find out if and how this technique works in a real project, I can definitely recommend to try out Quarkus as well. But also if you’re looking for ways to create micro-services in a public or private cloud, Quarkus may be an interesting way to go.
